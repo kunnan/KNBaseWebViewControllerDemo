@@ -1,0 +1,16 @@
+PODS:
+  - KNBaseWebViewController (0.1.1)
+
+DEPENDENCIES:
+  - KNBaseWebViewController
+
+SPEC REPOS:
+  https://github.com/zhangkn/Specs.git:
+    - KNBaseWebViewController
+
+SPEC CHECKSUMS:
+  KNBaseWebViewController: f2079898a5a6c89e23258008988629c828bc1b94
+
+PODFILE CHECKSUM: 9e7f14eae8e4afd70024764ca64355d967b735c7
+
+COCOAPODS: 1.5.0
